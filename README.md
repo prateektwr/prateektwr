@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Prateek</h1>
-<h3 align="center">Data/Financial/Marketing Analyst</h3>
+<h3 align="center">Tech Lead QE</h3>
 
 
 - 🔭 I am **Computer Science Engineer**, worked as QE Tech Lead and having **14+ years of experience in IT**
