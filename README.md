@@ -2,9 +2,8 @@
 <h3 align="center">Data/Financial/Marketing Analyst</h3>
 
 
-- 🔭 I am **Computer Science Engineer**, worked as QE Tech Lead and having **13 years of experience in IT**
-- 🌱 Recently I learnt: **Power BI, SQL, Python, Excel**
-- 👯 I’m looking to collaborate on: **Data Analyst, Financial Analyst, Marketing Analyst related work**
+- 🔭 I am **Computer Science Engineer**, worked as QE Tech Lead and having **14+ years of experience in IT**
+- 👯 I’m looking to collaborate on: **Tech Lead Automation(Java, Selenium), API Automation, SDET**
 - 📫 How to reach me: **prateektwr485@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
